@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "713068848751",
+    "firebase_url": "https://wj-wgo.firebaseio.com",
+    "project_id": "wj-wgo",
+    "storage_bucket": "wj-wgo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713068848751:android:2786272d18d021296acf9a",
+        "android_client_info": {
+          "package_name": "wj.wanna_go_out"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713068848751-iehnguk4t8vd4buv8r4ci72v6kni1tb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLJv4Do-tMlo-dIcO60bMkJkCCbXskLRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713068848751-iehnguk4t8vd4buv8r4ci72v6kni1tb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
